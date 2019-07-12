@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/02/08/16/35/music-628740_960_720.jpg);
+}
+
+
+header{
+    height:150px;
+    border:1px solid black;
+    max-width:960px;
+    margin: 0 auto;
+    background-color: #ffbb00;
+    font-size:20px;
+    text-align: center;
+    
+}
+#slots{
+    margin:0 auto;
+    height:150px;
+    max-width: 960px;
+    text-align: center;
+    border:3px solid black;
+    background-color:#d6781f;
+    font-size:40px;
+}
+#rightGuess{
+    margin:0 auto;
+    height:150px;
+    max-width: 960px;
+    text-align: center;
+    border:3px solid black;
+    background-color: #d6781f;
+    font-size:20px;
+}
+#wrongGuess{
+    margin:0 auto;
+    height:150px;
+    max-width: 960px;
+    text-align: center;
+    border:3px solid black;
+    background-color: #d6781f;
+    font-size:20px;
+}
+
+
